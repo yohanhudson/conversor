@@ -1,0 +1,24 @@
+body{
+    background-image:url(https://images2.alphacoders.com/480/thumb-1920-480530.png);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000000
+}
+h2{
+    color: white;
+    font-size: 100px;
+    font-family: Arial;
+    margin-left: 40%;
+    float: left;
+}
+h4{
+    color: white;
+    font-family: Arial;
+    font-size: 70px;
+}
+b{
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+}
